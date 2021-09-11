@@ -1,9 +1,9 @@
 ---
-title: Text and Typography
-author: Cotes Chung
-date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+title: My CRTP Review
+author: Abhisar Pandey[MrGrep]
+date: 11/09/2021 
+categories: [Blogging, Exam-Review]
+tags: [Active Directory, AD]
 math: true
 mermaid: true
 image:
@@ -12,7 +12,7 @@ image:
   height: 585
 ---
 
-This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
+I am just testing if I can make it working xD
 
 
 ## Titles
