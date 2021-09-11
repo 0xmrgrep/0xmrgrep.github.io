@@ -7,7 +7,7 @@ tags: [Active Directory, AD]
 math: true
 mermaid: true
 image:
-  src: /asset/img/crtp.png
+  src: /assets/img/crtp.png
   width: 850
   height: 585
 ---
