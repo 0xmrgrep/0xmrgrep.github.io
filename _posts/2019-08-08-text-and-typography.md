@@ -1,30 +1,22 @@
 ---
-title: My CRTP Review
-author: Abhisar Pandey[MrGrep]
-date: 11/09/2021 
-categories: [Blogging, Exam-Review]
-tags: [Active Directory, AD]
+title: Text and Typography
+author: Cotes Chung
+date: 2019-08-08 11:33:00 +0800
+categories: [Blogging, Demo]
+tags: [typography]
 math: true
 mermaid: true
 image:
-  src: /assets/img/crtp.png
+  src: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png
   width: 850
   height: 585
 ---
 
-Hello Everyone, In this blog I am going to talk about my CRTP Exam review.
+This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
 
-## Purchase option
-| Lab Duration     | Cost    |
-|:-----------------|--------:|
-| 1 Month          | $249    |
-| 2 Month          | $379    |
-| 3 Month          | $499    |
 
-Link to purchase the course: <https://www.pentesteracademy.com/activedirectorylab>
 ## Titles
 ---
-I took 1 Month lab cause I had previous experience with active directory.
 # H1 - heading
 
 <h2 data-toc-skip>H2 - heading</h2>
