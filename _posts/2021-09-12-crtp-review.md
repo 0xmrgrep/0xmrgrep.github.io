@@ -1,7 +1,7 @@
 ---
 title: My CRTP Review
 author: Abhisar Pandey[MrGrep]
-date: 2019-08-08 11:33:00 +0800
+date: 2021-09-12 11:33:00 +0800
 categories: [Exam Review, CRTP]
 tags: [crtp ,crtp review, active directory, certified red team professional, AD]
 math: true
