@@ -61,7 +61,7 @@ So far as my journey is concerned, I proceeded with 1 month lab but if one can a
 > Before purchasing the course, I would like to suggest to brush up your basic AD knowledge.
 
 
->> Once you prepare your basics, you will be good to purchase the course. To purchase the course, please visit <https://www.pentesteracademy.com/activedirectorylab> and click on purchase options and fill the form available for it.<br>
+> Once you prepare your basics, you will be good to purchase the course. To purchase the course, please visit <https://www.pentesteracademy.com/activedirectorylab> and click on purchase options and fill the form available for it.<br>
 > Please note: The lab will be deployed for the email used while purchasing the courrse. So, it is recommended to use official email id.<br>
 
 Within 24 hours of payment, you'll get your email for the account activation and information.
@@ -112,4 +112,7 @@ So, 4 day after submiting my report I got an email from Lab Team that I have suc
 If you have reached till here, I would like to thank you for reading my blog.
 I oftenly tweet stuffs and resources related to cybersecurity topics for which you can check my [Twitter](https://twitter.com/imabhisarpandey)
 <br>
-Have a great time ahead :D
+If you really liked my blog and if you could afford you can consider buying me a coffee :D
+<br>
+<center><a href="https://www.buymeacoffee.com/0xMrGrep"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=0xMrGrep&button_colour=ff0000&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a></center>
+
