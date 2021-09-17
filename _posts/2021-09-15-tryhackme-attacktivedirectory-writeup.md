@@ -119,7 +119,7 @@ Now moving to the questions of this task.
 As description suggests after the enumeration of user accounts is finished, we can attempt to abuse a feature within Kerberos with an attack method called ASREPRoasting. ASReproasting occurs when a user account has the privilege "Does not require Pre-Authentication" set. This means that the account does not need to provide valid identification before requesting a Kerberos Ticket on the specified user account.
 For Retrieving Kerberos Tickets we can use a tool called "GetNPUsers.py" (located in impacket/examples/GetNPUsers.py) that will allow us to query ASReproastable accounts from the Key Distribution Center. The only thing that's necessary to query accounts is a valid set of usernames which we enumerated previously via Kerbrute.
 ![Desktop View](/assets/img/addr4.png){: width="972" height="589" }
-_password you can see red highlighted_
+_getting TGT_
 
 Now save this in file called hash.txt and use hashcat over it.
 ```bash
