@@ -105,7 +105,7 @@ Note: Several users have faced an issue that the latest version of Kerbrute does
 For this box, a modified [User List](https://raw.githubusercontent.com/Sq00ky/attacktive-directory-tools/master/userlist.txt) and [Password List](https://raw.githubusercontent.com/Sq00ky/attacktive-directory-tools/master/passwordlist.txt) will be used to cut down on time of enumeration of users and password hash cracking. It is NOT recommended to brute force credentials due to account lockout policies that we cannot enumerate on the domain controller.
 
 ![Desktop View](/assets/img/addr.png){: width="972" height="589" }
-_nmap output_
+_to know about the flags used refer help menu_
 <br>
 Now moving to the questions of this task.
 
