@@ -20,13 +20,13 @@ timezone: Asia/Kolkata
 
 title: MrGrep                          # the main title
 
-tagline: CRTP | CEH(Practical)   # it will display as the sub-title
+tagline: Red Team Enthusiast   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Cybersecurity blog for security enthusiasts by MrGrep.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: '' 
 
 github:
   username: imabhisarpandey             # change to your github username
